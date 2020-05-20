@@ -1,6 +1,6 @@
 {
   "name": "jwtdecode",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "decode jwt token payload",
   "keywords": [],
   "license": "MIT",
